@@ -1,0 +1,6 @@
+site_name: Pacotes Debian
+repo_url: https://github.com/FGA-GCES/Debian_Pacotes
+theme:
+  name: material
+  features:
+    - navigation.instant
