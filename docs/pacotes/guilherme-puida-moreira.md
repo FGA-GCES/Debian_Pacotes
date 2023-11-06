@@ -74,4 +74,15 @@ construido usando a versão do ruby na experimental.
 - [Tracker](https://tracker.debian.org/pkg/ruby-timeliness)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/94)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-timeliness/-/merge_requests/1)
+- Status: **done**
+
+### ruby-in-parallel
+
+Atualização para nova versão do upstream para que o pacote conseguisse ser
+construido usando a versão do ruby na experimental. Criação de watch file,
+atualização do Standards-Version.
+
+- [Tracker](https://tracker.debian.org/pkg/ruby-in-parallel)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/98)
+- [Merge Request](https://salsa.debian.org/debian/ruby-in-parallel/-/merge_requests/5)
 - Status: **review**
