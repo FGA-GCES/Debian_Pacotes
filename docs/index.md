@@ -1,6 +1,6 @@
 # GCES - Debian
 
-Gitpages para agrupar todo o trabalho realizado pelos estudantes de Gestão da configuração e evolução de software que estão contribuindo com o empacotamento para o sistema operacional [Debian](https://www.debian.org)
+Gitpages para agrupar todo o trabalho realizado pelos estudantes de Gestão da configuração e evolução de software que estão contribuindo com o empacotamento para a distribuição Linux [Debian](https://www.debian.org)
 
 ## Termos importantes:
 - Empacotamento: É uma forma de distribuir um software para outras pessoas, nesse caso, se torna o acesso facil por meio do sistema operacional.
@@ -14,14 +14,14 @@ Gitpages para agrupar todo o trabalho realizado pelos estudantes de Gestão da c
 
 - Abdul
 - Adne
-- André
-- Guilherme
+- [André](./pacotes/andre-correa-da-silva.md)
+- [Guilherme](./pacotes/guilherme-puida-moreira.md)
 - Heitor
-- João Henrique
+- [João Henrique](./pacotes/joao-henrique-marques-calzavara.md)
 - João Pedro
-- Leonardo
+- [Leonardo](./pacotes/leonardo-milomes-vitoriano.md)
 - Lucas
-- Marcos
+- [Marcos](./pacotes/marcos-vinicius-de-deus.md)
 - Mariana
 - Thiago
 
