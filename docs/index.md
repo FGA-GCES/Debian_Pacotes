@@ -16,7 +16,7 @@ Gitpages para agrupar todo o trabalho realizado pelos estudantes de Gestão da c
 - [Adne](./pacotes/adne-moretti-moreira.md)
 - [André](./pacotes/andre-correa-da-silva.md)
 - [Guilherme](./pacotes/guilherme-puida-moreira.md)
-- Heitor
+- [Heitor](./pacotes/heitor-marques-simoes-barbosa.md)
 - [João Henrique](./pacotes/joao-henrique-marques-calzavara.md)
 - João Pedro
 - [Leonardo](./pacotes/leonardo-milomes-vitoriano.md)
