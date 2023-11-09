@@ -22,7 +22,7 @@ Gitpages para agrupar todo o trabalho realizado pelos estudantes de Gestão da c
 - [Leonardo](./pacotes/leonardo-milomes-vitoriano.md)
 - Lucas
 - [Marcos](./pacotes/marcos-vinicius-de-deus.md)
-- Mariana
+- [Mariana](./pacotes/mariana-rio.md)
 - Thiago
 
 ## Links importantes:
