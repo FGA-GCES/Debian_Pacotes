@@ -51,7 +51,7 @@ Standards-Version.
 
 Pacote novo, dependência de teste do [flake8-spellcheck](#flake8-spellcheck).
 
-- [ITP](https://bugs.debian.org/1054413)
+- [ITP](https://bugs.debian.org/1054264)
 - [Tracker](https://tracker.debian.org/pkg/pytest-flake8-path)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/89)
 - Status: **done**
