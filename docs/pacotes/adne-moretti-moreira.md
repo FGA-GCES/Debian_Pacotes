@@ -16,7 +16,7 @@ Nova versão do upstream e atualização do Standards-Version.
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/62)
 - [Merge Request](https://salsa.debian.org/python-team/packages/python-colored/-/merge_requests/1)
 
-**Sprint 1** 
+<!--**Sprint 1** 
 
 - Status: **doing**
 - Observações: Início do desenvolvimento do pacote.
@@ -27,7 +27,7 @@ Nova versão do upstream e atualização do Standards-Version.
 - Observações: Encontrados problemas na documentação do pacote, foi necessário mudar extensão do arquivo
 - README do pacote para .md e resolver problemas relacionados a commits antigos mudando o hash ao fazer importação do upstream.
 
-**Sprint 3**
+**Sprint 3**--> 
 
 - Status: **in review**
 - Solicitações foram feitas de mudanças em outras branches e modificações já foram realizadas, aguardando segunda revisão.
@@ -40,12 +40,12 @@ Atualizando versão do Standards-Verion, adicionando dependências o Ruby, atual
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/83)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-solve/-/merge_requests/1)
 
-**Sprint 2**
+<!--**Sprint 2**
 
 - Status: **doing**
 - Observações: Iniciando atualizações no pacote ruby-solve;
 
-**Sprint 3**
+**Sprint 3**--> 
 
 - Status: **review**
 - Problemas com sbuild debian, upstream sem arquivos base, MR aberto. 
