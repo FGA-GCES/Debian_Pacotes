@@ -64,7 +64,7 @@ Pacote novo. Nova dependência do
 
 - [ITP](https://bugs.debian.org/1054413)
 - [Tracker](https://tracker.debian.org/pkg/flake8-spellcheck)
-- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/89)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/92)
 - Status: **done**
 
 ### ruby-timeliness
