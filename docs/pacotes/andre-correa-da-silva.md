@@ -18,5 +18,11 @@ Correção do Watch, Eliminação da dependência no pacote python-nose, criaç�
 - Coloborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
 - Status: **review**
 
+### django-assets
 
+Correção do Watch, Debci reports failed tests, The VCS repository is not up to date, lintian, atualizar standard version, remover python-nose
 
+- [Tracker](https://tracker.debian.org/pkg/django-assets)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/109)
+- Coloborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
+- Status: **doing**
