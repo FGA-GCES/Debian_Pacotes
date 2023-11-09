@@ -37,8 +37,8 @@ Nova versão do upstream e atualização do Standards-Version.
 Atualizando versão do Standards-Verion, adicionando dependências o Ruby, atualizando patches e importando nova versão do Standards-Version
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-solve)
-- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/98)
-- [Merge Request](https://salsa.debian.org/debian/ruby-solve/-/merge_requests/1)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/83)
+- [Merge Request](https://salsa.debian.org/ruby-team/ruby-solve/-/merge_requests/1)
 
 **Sprint 2**
 
@@ -47,5 +47,5 @@ Atualizando versão do Standards-Verion, adicionando dependências o Ruby, atual
 
 **Sprint 3**
 
-- Status: **doing**
+- Status: **review**
 - Problemas com sbuild debian, upstream sem arquivos base, MR aberto. 
