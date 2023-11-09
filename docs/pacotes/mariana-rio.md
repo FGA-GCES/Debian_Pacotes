@@ -8,7 +8,7 @@ title: Mariana Oliveira Pires do Rio
 
 ## Pacotes trabalhados
 
-### python-flaky
+### python-redmine
 
 Atualização da versão upstream, criação de patch.
 
