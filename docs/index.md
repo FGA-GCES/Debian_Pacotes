@@ -13,7 +13,7 @@ Gitpages para agrupar todo o trabalho realizado pelos estudantes de Gestão da c
 ## Membros do grupo:
 
 - Abdul
-- Adne
+- [Adne](./pacotes/adne-moretti-moreira.md)
 - [André](./pacotes/andre-correa-da-silva.md)
 - [Guilherme](./pacotes/guilherme-puida-moreira.md)
 - Heitor
