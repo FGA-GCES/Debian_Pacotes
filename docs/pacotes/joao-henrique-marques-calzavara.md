@@ -31,8 +31,17 @@ Nova versão do stardards-version e patches desatualizados.
 
 Nova versão do stardards-version e patches desatualizados.
 
+- [Tracker](https://tracker.debian.org/pkg/tdiary-style-gfm)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/112)
+- [Merge Request](https://salsa.debian.org/ruby-team/ruby-rspec-parameterized/-/merge_requests/1)
+- Status: **review**
+
+### ruby-tdiary-style-gfm
+
+Nova versão do stardards-version.
+
 - [Tracker](https://tracker.debian.org/pkg/ruby-rspec-parameterized)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/100)
-- [Merge Request](https://salsa.debian.org/ruby-team/ruby-rspec-parameterized/-/merge_requests/1)
+- [Merge Request](https://salsa.debian.org/ruby-team/tdiary-style-gfm/-/merge_requests/1)
 - Status: **review**
 
