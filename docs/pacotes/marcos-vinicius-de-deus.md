@@ -35,3 +35,12 @@ Nova release e nova versão do standarts-version.
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/107)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-scanf/-/merge_requests/1)
 - Status: **review**
+
+### ruby-jekyll-last-modified-at
+
+Nova versão do standarts-version, correção de erro do lintian e atualizar changelog.
+
+- [Tracker](https://tracker.debian.org/pkg/ruby-jekyll-last-modified-at)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/113)
+- [Merge Request](https://salsa.debian.org/ruby-team/ruby-jekyll-last-modified-at/-/merge_requests/1)
+- Status: **review**
