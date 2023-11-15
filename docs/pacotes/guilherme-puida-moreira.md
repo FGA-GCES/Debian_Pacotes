@@ -87,3 +87,16 @@ atualização do Standards-Version.
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/98)
 - [Merge Request](https://salsa.debian.org/debian/ruby-in-parallel/-/merge_requests/5)
 - Status: **review**
+
+### responses
+
+A versão atualmente empacotada impossibilita a atualização do pacote
+[scriv](https://tracker.debian.org/pkg/scriv).
+
+Atualização de nova versão do upstream, com novas dependências. Atualização do
+Standards-Version.
+
+- [Tracker](https://tracker.debian.org/pkg/responses)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/111)
+- [Merge Request](https://salsa.debian.org/python-team/packages/responses/-/merge_requests/5)
+- Status: **review**
