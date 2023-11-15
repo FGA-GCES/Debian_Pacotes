@@ -5,6 +5,7 @@ title: Leonardo Milomes Vitoriano
 ## Informações
 
 - [Usuário no Salsa: @leonardomilv3](https://salsa.debian.org/leonardomilv3)
+- [QA](https://qa.debian.org/developer.php?email=leonardomilov@gmail.com)
 
 ## Pacotes trabalhados
 
@@ -15,8 +16,8 @@ Nova versão do upstream e do stardards, problemas de dependências, problema de
 - [Tracker](https://tracker.debian.org/pkg/colored)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/67)
 - [Merge Request](https://salsa.debian.org/python-team/packages/python-colored/-/merge_requests/1)
-- Coloborador(es): [Adne Moreti](https://salsa.debian.org/AdneMoretti)
-- Status: **review**
+- Colaborador(es): [Adne Moreti](https://salsa.debian.org/AdneMoretti)
+- Status: **done**
 
 ### ruby-valid-email
 
