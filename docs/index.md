@@ -18,12 +18,12 @@ Gitpages para agrupar todo o trabalho realizado pelos estudantes de Gestão da c
 - [Guilherme](./pacotes/guilherme-puida-moreira.md)
 - [Heitor](./pacotes/heitor-marques-simoes-barbosa.md)
 - [João Henrique](./pacotes/joao-henrique-marques-calzavara.md)
-- João Pedro
+- [João Pedro](./pacotes/Joao-anacleto.md)
 - [Leonardo](./pacotes/leonardo-milomes-vitoriano.md)
-- Lucas
+- [Lucas](./pacotes/lucas-gabriel-sousa-camargo-paiva.md)
 - [Marcos](./pacotes/marcos-vinicius-de-deus.md)
 - [Mariana](./pacotes/mariana-rio.md)
-- Thiago
+- [Thiago](./pacotes/Thiago-Oliveira.md)
 
 ## Links importantes:
 

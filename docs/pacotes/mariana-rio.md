@@ -23,8 +23,8 @@ Atualização da versão upstream, criação de patch.
 Atualização da versão upstream, Debci failed tests, repositorio desatualizado, standards version desatualizada.
 
 - [Tracker](https://tracker.debian.org/pkg/asciiart)
-- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/108)
-- [Merge Request]()
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/118)
+- [Merge Request](https://salsa.debian.org/ruby-team/asciiart/-/merge_requests/4)
 - Coloborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
 - Status: **review**
 
@@ -33,7 +33,7 @@ Atualização da versão upstream, Debci failed tests, repositorio desatualizado
 Atualização da versão upstream, criação de patch.
 
 - [Tracker](https://tracker.debian.org/pkg/capistrano)
-- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/108)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/110)
 - [Merge Request](https://salsa.debian.org/ruby-team/capistrano/-/merge_requests/1)
 - Coloborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
 - Status: **review**
