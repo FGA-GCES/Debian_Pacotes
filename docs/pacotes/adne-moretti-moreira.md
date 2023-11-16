@@ -15,7 +15,7 @@ title: Adne Moretti Moreira
 Nova versão do upstream e atualização do Standards-Version. 
 
 - [Tracker](https://tracker.debian.org/pkg/colored)
-- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/62)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/67)
 - [Merge Request](https://salsa.debian.org/python-team/packages/python-colored/-/merge_requests/1)
 
 <!--**Sprint 1** 
@@ -31,7 +31,7 @@ Nova versão do upstream e atualização do Standards-Version.
 
 **Sprint 3**--> 
 
-- Status: **uploaded**
+- Status: **upload done**
 - Solicitações foram feitas de mudanças em outras branches e modificações já foram realizadas, aguardando segunda revisão.
   
 ### ruby-solve
