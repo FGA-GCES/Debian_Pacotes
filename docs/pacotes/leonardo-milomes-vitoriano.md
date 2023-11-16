@@ -28,4 +28,11 @@ Nova versão do upstream e patches desatualizados.
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-valid-email/-/merge_requests/1)
 - Status: **review**
 
+### ruby-cabypara
 
+Nova versão do upstream e patches desatualizados, nova standards version.
+
+- [Tracker](https://tracker.debian.org/pkg/ruby-valid-email)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/74)
+- [Merge Request](https://salsa.debian.org/ruby-team/ruby-valid-email/-/merge_requests/1)
+- Status: **doing**
