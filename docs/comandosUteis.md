@@ -52,3 +52,11 @@ outras ferramentas úteis para Desenvolvedores Debian.
 [salsa]: https://salsa.debian.org
 [uscan]: https://manpages.debian.org/unstable/devscripts/uscan.1.en.html
 [devscripts]: https://packages.debian.org/sid/devscripts
+
+## [origtargz](https://manpages.debian.org/stretch/devscripts/origtargz.1.en.html)
+
+Procura o tarball original de pacotes do debian em várias fontes e compacta isso. Útil quando o uscan não está encontrando a versão existente no pacote. Rodar os comandos na raiz do projeto (pacote debian). 
+
+- `origtargz -d`: Procura o pacote e faz apenas o download, se encontrado.
+- `origtargz -u`: Desempacota o tarball encontrado.
+
