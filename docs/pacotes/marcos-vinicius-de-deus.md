@@ -34,7 +34,7 @@ Nova release e nova versão do standarts-version.
 - [Tracker](https://tracker.debian.org/pkg/ruby-scanf)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/107)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-scanf/-/merge_requests/1)
-- Status: **review**
+- Status: **done**
 
 ### ruby-jekyll-last-modified-at
 
