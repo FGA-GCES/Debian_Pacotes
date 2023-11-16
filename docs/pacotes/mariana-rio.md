@@ -18,6 +18,16 @@ Atualização da versão upstream, criação de patch.
 - Coloborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
 - Status: **review**
 
+### capistrano
+
+Atualização da versão upstream, criação de patch.
+
+- [Tracker](https://tracker.debian.org/pkg/capistrano)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/108)
+- [Merge Request](https://salsa.debian.org/ruby-team/capistrano/-/merge_requests/1)
+- Coloborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
+- Status: **review**
+
 ### camping
 
 Atualização da versão upstream, repositorio desatualizado, standards version desatualizada, criação de patch, lintian reports com 3 warnings.
@@ -25,13 +35,5 @@ Atualização da versão upstream, repositorio desatualizado, standards version 
 - [Tracker](https://tracker.debian.org/pkg/camping)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/108)
 - [Merge Request]()
-- Status: **doing**
-
-### camping
-
-Atualização da versão upstream, criação de patch.
-
-- [Tracker](https://tracker.debian.org/pkg/capistrano)
-- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/108)
-- [Merge Request]()
+- Coloborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
 - Status: **doing**
