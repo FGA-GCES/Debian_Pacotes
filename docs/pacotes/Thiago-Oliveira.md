@@ -23,6 +23,6 @@ Empacotamento da nova versão do upstream 2.2.2,Correção dos erros e warnings 
 
 Atualizar o Standards version do pacote da 5.4.3-2 para a versão  5.4.4 ,subir 2 patches para o upstream e atualizar a nova versão do upstream.
 
-- [Tracker](https://tracker.debian.org/pkg/ruby-whitewash)
+- [Tracker](https://tracker.debian.org/pkg/ruby-webpacker)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/120)
 - Status: **doing**
