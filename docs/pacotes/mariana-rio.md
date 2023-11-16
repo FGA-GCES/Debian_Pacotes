@@ -18,6 +18,16 @@ Atualização da versão upstream, criação de patch.
 - Coloborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
 - Status: **review**
 
+### asciiart
+
+Atualização da versão upstream, Debci failed tests, repositorio desatualizado, standards version desatualizada.
+
+- [Tracker](https://tracker.debian.org/pkg/asciiart)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/108)
+- [Merge Request]()
+- Coloborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
+- Status: **review**
+
 ### capistrano
 
 Atualização da versão upstream, criação de patch.
