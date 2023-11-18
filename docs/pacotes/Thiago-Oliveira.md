@@ -14,8 +14,8 @@ Empacotamento da nova versão do upstream 2.2.2,Correção dos erros e warnings 
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-svg-graph)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/71)
-- Coloborador(es): [Abdull Hannan](https://salsa.debian.org/hannanhunny01)
-- Coloborador(es): [João Pedro Anacleto](https://salsa.debian.org/jpanacleto2)
+- Colaborador(es): [Abdull Hannan](https://salsa.debian.org/hannanhunny01)
+- Colaborador(es): [João Pedro Anacleto](https://salsa.debian.org/jpanacleto2)
 - Status: **review**
 
 

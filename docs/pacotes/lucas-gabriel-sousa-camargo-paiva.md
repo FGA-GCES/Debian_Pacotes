@@ -16,7 +16,7 @@ Standards-Version.
 - [Tracker](https://tracker.debian.org/pkg/flask-dance)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/62)
 - [Merge Request](https://salsa.debian.org/python-team/packages/flask-dance/-/merge_requests/1)
-- Coloborador(es): [Guilherme Puida Moreira](https://salsa.debian.org/puida)
+- Colaborador(es): [Guilherme Puida Moreira](https://salsa.debian.org/puida)
 - Status: **done**
 
 ### ruby-blade

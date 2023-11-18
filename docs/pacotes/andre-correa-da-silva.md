@@ -15,7 +15,7 @@ Correção do Watch, Eliminação da dependência no pacote python-nose, criaç�
 - [Tracker](https://tracker.debian.org/pkg/python-flaky)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/65)
 - [Merge Request](https://salsa.debian.org/python-team/packages/python-flaky/-/merge_requests/2)
-- Coloborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
+- Colaborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
 - Status: **review**
 
 ### django-assets
@@ -24,7 +24,7 @@ Correção do Watch, Debci reports failed tests, The VCS repository is not up to
 
 - [Tracker](https://tracker.debian.org/pkg/django-assets)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/109)
-- Coloborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
+- Colaborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
 - Status: **doing**
 
 ### cucumber
@@ -33,6 +33,6 @@ Atualização da versão upstream e standards version.
 
 - [Tracker](https://tracker.debian.org/pkg/cucumber)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/121)
-- Coloborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
+- Colaborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
 - [Merge Request]()
 - Status: **doing**

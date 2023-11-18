@@ -15,7 +15,7 @@ Nova versão do stardards-version, problemas de lintian.
 - [Tracker](https://tracker.debian.org/pkg/dnlib)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/63)
 - [Merge Request](https://salsa.debian.org/pkg-security-team/dnlib/-/merge_requests/1)
-- Coloborador(es): [Marcos Vinicius](https://salsa.debian.org/Marcos574)
+- Colaborador(es): [Marcos Vinicius](https://salsa.debian.org/Marcos574)
 - Status: **review**
 
 ### ruby-omniauth-github
