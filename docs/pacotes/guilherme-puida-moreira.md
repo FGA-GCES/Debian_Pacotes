@@ -104,7 +104,7 @@ Standards-Version.
 ### dasel
 
 [Dasel](https://github.com/TomWright/dasel) é uma ferramenta que permite
-consultar, modificar e deletar atributos de formatos como JSOn, CSV e XML.
+consultar, modificar e deletar atributos de formatos como JSON, CSV e XML.
 
 Esse software ainda não estava empacotado.
 
