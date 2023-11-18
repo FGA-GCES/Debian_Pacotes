@@ -18,7 +18,7 @@ Standards-Version.
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/62)
 - [Merge Request](https://salsa.debian.org/python-team/packages/flask-dance/-/merge_requests/1)
 - Coloborador(es): [Lucas Gabriel Sousa Camargo Paiva](https://salsa.debian.org/lucasgabriel-2)
-- Status: **done**
+- Status: **upload done**
 
 ### ruby-vmstat
 
@@ -28,7 +28,7 @@ Standards-Version.
 - [Tracker](https://tracker.debian.org/pkg/ruby-vmstat)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/70)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-vmstat/-/merge_requests/1)
-- Status: **done**
+- Status: **upload done**
 
 ### labwc
 
@@ -45,7 +45,7 @@ Standards-Version.
 - [Tracker](https://tracker.debian.org/pkg/jqp)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/79)
 - [Merge Request](https://salsa.debian.org/go-team/packages/jqp/-/merge_requests/1)
-- Status: **done**
+- Status: **upload done**
 
 ### pytest-flake8-path
 
@@ -54,7 +54,7 @@ Pacote novo, dependência de teste do [flake8-spellcheck](#flake8-spellcheck).
 - [ITP](https://bugs.debian.org/1054264)
 - [Tracker](https://tracker.debian.org/pkg/pytest-flake8-path)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/89)
-- Status: **done**
+- Status: **upload done**
 
 ### flake8-spellcheck
 
@@ -65,7 +65,7 @@ Pacote novo. Nova dependência do
 - [ITP](https://bugs.debian.org/1054413)
 - [Tracker](https://tracker.debian.org/pkg/flake8-spellcheck)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/92)
-- Status: **done**
+- Status: **upload done**
 
 ### ruby-timeliness
 
@@ -75,7 +75,7 @@ construido usando a versão do ruby na experimental.
 - [Tracker](https://tracker.debian.org/pkg/ruby-timeliness)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/94)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-timeliness/-/merge_requests/1)
-- Status: **done**
+- Status: **upload done**
 
 ### ruby-in-parallel
 
