@@ -100,3 +100,15 @@ Standards-Version.
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/111)
 - [Merge Request](https://salsa.debian.org/python-team/packages/responses/-/merge_requests/5)
 - Status: **review**
+
+### dasel
+
+[Dasel](https://github.com/TomWright/dasel) é uma ferramenta que permite
+consultar, modificar e deletar atributos de formatos como JSOn, CSV e XML.
+
+Esse software ainda não estava empacotado.
+
+- [ITP](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=988063)
+- [Repo](https://salsa.debian.org/puida/dasel)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/123)
+- Status: **doing**
