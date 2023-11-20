@@ -108,7 +108,12 @@ consultar, modificar e deletar atributos de formatos como JSON, CSV e XML.
 
 Esse software ainda não estava empacotado.
 
+Como o software não possui `man pages`, abri um PR para incluir um subcomando
+para a geração desses recursos. O PR já foi aceito, então só estou esperando
+uma nova tag para poder prosseguir com o empacotamento.
+
 - [ITP](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=988063)
 - [Repo](https://salsa.debian.org/puida/dasel)
+- [PR upstream para adicionar `man pages`](https://github.com/TomWright/dasel/pull/375)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/123)
-- Status: **doing**
+- Status: **blocked**
