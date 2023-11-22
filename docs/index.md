@@ -23,7 +23,7 @@ Gitpages para agrupar todo o trabalho realizado pelos estudantes de Gestão da c
 - [Lucas](./pacotes/lucas-gabriel-sousa-camargo-paiva.md)
 - [Marcos](./pacotes/marcos-vinicius-de-deus.md)
 - [Mariana](./pacotes/mariana-rio.md)
-- [Thiago](./pacotes/Thiago-Oliveira.md)
+- [Thiago](./pacotes/thiago-oliveira.md)
 
 ## Links importantes:
 
