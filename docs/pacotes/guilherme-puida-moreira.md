@@ -86,7 +86,7 @@ atualização do Standards-Version.
 - [Tracker](https://tracker.debian.org/pkg/ruby-in-parallel)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/98)
 - [Merge Request](https://salsa.debian.org/debian/ruby-in-parallel/-/merge_requests/5)
-- Status: **review**
+- Status: **upload done**
 
 ### responses
 
