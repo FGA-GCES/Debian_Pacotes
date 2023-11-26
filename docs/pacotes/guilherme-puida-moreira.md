@@ -59,7 +59,7 @@ Pacote novo, dependência de teste do [flake8-spellcheck](#flake8-spellcheck).
 ### flake8-spellcheck
 
 Pacote novo. Nova dependência do
-[Image-Finder](https://salsa.debian.org/cloud-team/image-finder) no
+[Image-Finder] no
 [Merge Request !121](https://salsa.debian.org/cloud-team/image-finder/-/merge_requests/121).
 
 - [ITP](https://bugs.debian.org/1054413)
@@ -117,3 +117,18 @@ uma nova tag para poder prosseguir com o empacotamento.
 - [PR upstream para adicionar `man pages`](https://github.com/TomWright/dasel/pull/375)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/123)
 - Status: **blocked**
+
+### prometheus-flask-exporter
+
+Biblioteca do [flask] para exportar métricas para o Prometheus. Pedido do
+Arthur Diniz para ser usado no [Image-Finder] e no(s) site(s) da MiniDebConf.
+
+Software ainda não empacotado.
+
+- [ITP](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1056728)
+- [Repo](https://salsa.debian.org/puida/prometheus-flask-exporter)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/125)
+- Status: **review**
+
+[flask]: https://flask.palletsprojects.com
+[Image-Finder]: https://salsa.debian.org/cloud-team/image-finder
