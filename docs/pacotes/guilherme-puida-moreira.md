@@ -112,11 +112,16 @@ Como o software não possui `man pages`, abri um PR para incluir um subcomando
 para a geração desses recursos. O PR já foi aceito, então só estou esperando
 uma nova tag para poder prosseguir com o empacotamento.
 
+#### Atualizaçãp 28/11/2023
+
+O mantenedor do upstream fez uma nova release, então pude prosseguir com o
+empacotamento. Importei a nova versão e refiz o pacote.
+
 - [ITP](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=988063)
 - [Repo](https://salsa.debian.org/puida/dasel)
 - [PR upstream para adicionar `man pages`](https://github.com/TomWright/dasel/pull/375)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/123)
-- Status: **blocked**
+- Status: **review**
 
 ### prometheus-flask-exporter
 
