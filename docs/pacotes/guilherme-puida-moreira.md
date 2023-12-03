@@ -133,7 +133,7 @@ Software ainda não empacotado.
 - [ITP](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1056728)
 - [Repo](https://salsa.debian.org/puida/prometheus-flask-exporter)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/125)
-- Status: **review**
+- Status: **upload done**
 
 [flask]: https://flask.palletsprojects.com
 [Image-Finder]: https://salsa.debian.org/cloud-team/image-finder
