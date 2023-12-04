@@ -45,11 +45,11 @@ Nova versão do stardards-version e correção de problemas do lintian.
 - [Merge Request](https://salsa.debian.org/ruby-team/tdiary-style-gfm/-/merge_requests/1)
 - Status: **review**
 
-### ruby-tdiary-style-gfm
+### ruby-ipaddress
 
 Nova versão do stardards-version e correção de problemas do lintian.
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-ipaddress)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/128)
-- [Merge Request]([https://salsa.debian.org/ruby-team/tdiary-style-gfm/-/merge_requests/1](https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)
+- [Merge Request](https://salsa.debian.org/ruby-team/tdiary-style-gfm/-/merge_requests/1](https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)
 - Status: **review**
