@@ -52,7 +52,8 @@ Atualizando versão do Standards-Verion, adicionando dependências o Ruby, atual
 **Sprint 3**--> 
 
 - Status: **review**
-- Problemas com sbuild debian, upstream sem arquivos base, MR aberto. 
+- Problemas com sbuild debian, upstream sem arquivos base, MR aberto.
+- Ajustes solicitados e realizados na última sprint. 
 
 ### ruby-factory-bot-rails
 Test Failed ruby 3.1
@@ -64,4 +65,21 @@ Test Failed ruby 3.1
 - [Tracker](https://tracker.debian.org/pkg/ruby-factory-bot-rails)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/119)
   
-- Status: **doing**
+- Status: **closed**
+- Issue foi feita por um Debian Developer/Mainteiner
+
+  ### ruby-launchy
+  
+Test Failed ruby 3.2 and arquivo watch não encontra nova versão de upstream. 
+
+![image](https://github.com/FGA-GCES/Debian_Pacotes/assets/64036847/4ede18c4-6a39-48e5-a135-7107526073b8)
+
+![image](https://github.com/FGA-GCES/Debian_Pacotes/assets/64036847/e748a04a-ee5c-472e-969c-81ed824bea3d)
+
+  - [Tracker](https://tracker.debian.org/pkg/ruby-launchy)
+  - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/129)
+  - [Merge Request](https://salsa.debian.org/ruby-team/ruby-launchy/-/merge_requests/1)
+ 
+- Status: **review**
+- Nova versão do upstream, resolvendo arquivo watch e standards version.
+- Provavelmente bug resolvido por atualização do upstream. 
