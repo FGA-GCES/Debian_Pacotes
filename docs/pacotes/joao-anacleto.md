@@ -33,4 +33,15 @@ do lintian atualizar 2 patches para o upstream.
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-whitewash)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/116)
-- Status: **doing**
+- Status: feito enquanto trabalhava ;-;
+
+### ruby-kramdown-rfc2629
+
+![Ruby whitewash](/docs/assets/ruby-kramdown-rfc2629.png)
+
+Atualizar o upstream para versão 1.7.3,corrigir 7 warnings de lintian e subir 3 patches para o upstream.
+
+- [Tracker](https://tracker.debian.org/pkg/ruby-kramdown-rfc2629)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/132)
+- Status: **Doing**
+ 
