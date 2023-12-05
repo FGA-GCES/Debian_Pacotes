@@ -12,6 +12,8 @@ title: João Henrique Marques Calzavara
 
 Nova versão do stardards-version, problemas de lintian.
 
+![image](../../docs/assets/dnlib.png)
+
 - [Tracker](https://tracker.debian.org/pkg/dnlib)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/63)
 - [Merge Request](https://salsa.debian.org/pkg-security-team/dnlib/-/merge_requests/1)
@@ -22,6 +24,8 @@ Nova versão do stardards-version, problemas de lintian.
 
 Nova versão do stardards-version e patches desatualizados.
 
+![image](../../docs/assets/ruby-omniauth-github.png)
+
 - [Tracker](https://tracker.debian.org/pkg/ruby-omniauth-github)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/99)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-omniauth-github/-/merge_requests/1)
@@ -31,7 +35,9 @@ Nova versão do stardards-version e patches desatualizados.
 
 Nova versão do stardards-version e patches desatualizados.
 
-- [Tracker](https://tracker.debian.org/pkg/tdiary-style-gfm)
+![image](../../docs/assets/ruby-rspec-parameterized.png)
+
+- [Tracker](https://tracker.debian.org/pkg/ruby-rspec-parameterized)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/112)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-rspec-parameterized/-/merge_requests/1)
 - Status: **merged**
@@ -39,6 +45,8 @@ Nova versão do stardards-version e patches desatualizados.
 ### ruby-tdiary-style-gfm
 
 Nova versão do stardards-version e correção de problemas do lintian.
+
+![image](../../docs/assets/tdiary-style-gfm.png)
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-rspec-parameterized)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/100)
@@ -49,7 +57,9 @@ Nova versão do stardards-version e correção de problemas do lintian.
 
 Nova versão do stardards-version e correção de problemas do lintian.
 
+![image](../../docs/assets/ruby-ipaddress.png)
+
 - [Tracker](https://tracker.debian.org/pkg/ruby-ipaddress)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/128)
-- [Merge Request](https://salsa.debian.org/ruby-team/tdiary-style-gfm/-/merge_requests/1](https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)
+- [Merge Request](<https://salsa.debian.org/ruby-team/tdiary-style-gfm/-/merge_requests/1](https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1>)
 - Status: **review**
