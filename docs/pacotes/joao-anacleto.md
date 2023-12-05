@@ -37,7 +37,7 @@ do lintian atualizar 2 patches para o upstream.
 
 ### ruby-kramdown-rfc2629
 
-![Ruby whitewash](/docs/assets/ruby-kramdown-rfc2629.png)
+![Ruby whitewash](https://raw.githubusercontent.com/FGA-GCES/Debian_Pacotes/main/docs/assets/ruby-kramdown-rfc2629.png)
 
 Atualizar o upstream para versão 1.7.3,corrigir 7 warnings de lintian e subir 3 patches para o upstream.
 
