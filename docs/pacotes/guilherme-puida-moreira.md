@@ -20,6 +20,8 @@ Standards-Version.
 - Colaborador(es): [Lucas Gabriel Sousa Camargo Paiva](https://salsa.debian.org/lucasgabriel-2)
 - Status: **upload done**
 
+- Obs.: O merge desse pacote não foi realizado diretamente. Primeiramente o mantenedor realizou cherry-pick de todos os commits e fechou o Merge Request.
+
 ### ruby-vmstat
 
 Nova versão do upstream, patches desatualizados a atualização do

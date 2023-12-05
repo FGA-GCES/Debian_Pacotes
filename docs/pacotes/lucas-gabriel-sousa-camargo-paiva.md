@@ -10,7 +10,10 @@ title: Lucas Gabriel Sousa Camargo Paiva
 
 ### flask-dance
 
-![image](/docs/assets/flask-dance.png)
+![Figura 1 - Tracker do pacote flask-dance.](/assets/flask-dance.png)
+
+<center> Figura 1 - Tracker do pacote flask-dance.</center>
+<br>
 
 Nova versão do upstream, patch desatualizado e atualização do
 Standards-Version.
@@ -21,11 +24,14 @@ Standards-Version.
 - Colaborador(es): [Guilherme Puida Moreira](https://salsa.debian.org/puida)
 - Status: **done (merged)**
 
-<!-- - Obs.: O merge desse pacote não foi realizado diretamente, primeiramente é feito o cherry-pick de todos os commits e então realizado o merge -->
+- Obs.: O merge desse pacote não foi realizado diretamente. Primeiramente o mantenedor realizou cherry-pick de todos os commits e fechou o Merge Request.
 
 ### ruby-blade
 
-![image](/docs/assets/ruby-blade.png)
+![Figura 2 - Tracker do pacote ruby-blade.](/assets/ruby-blade.png)
+
+<center> Figura 2 - Tracker do pacote ruby-blade.</center>
+<br>
 
 Correção do Watch, atualização do Standards-Version e correção das dependências do ruby.
 
