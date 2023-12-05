@@ -10,11 +10,6 @@ title: Lucas Gabriel Sousa Camargo Paiva
 
 ### flask-dance
 
-![Figura 1 - Tracker do pacote flask-dance.](/Debian_Pacotes/assets/flask-dance.png)
-
-<center> Figura 1 - Tracker do pacote flask-dance.</center>
-<br>
-
 Nova versão do upstream, patch desatualizado e atualização do
 Standards-Version.
 
@@ -26,12 +21,12 @@ Standards-Version.
 
 - Obs.: O merge desse pacote não foi realizado diretamente. Primeiramente o mantenedor realizou cherry-pick de todos os commits e fechou o Merge Request.
 
-### ruby-blade
+![Figura 1 - Tracker do pacote flask-dance.](/Debian_Pacotes/assets/flask-dance.png)
 
-![Figura 2 - Tracker do pacote ruby-blade.](/Debian_Pacotes/assets/ruby-blade.png)
-
-<center> Figura 2 - Tracker do pacote ruby-blade.</center>
+<center> Figura 1 - Tracker do pacote flask-dance.</center>
 <br>
+
+### ruby-blade
 
 Correção do Watch, atualização do Standards-Version e correção das dependências do ruby.
 
@@ -39,6 +34,11 @@ Correção do Watch, atualização do Standards-Version e correção das depend�
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/72)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-blade/-/merge_requests/1)
 - Status: **done (merged)**
+
+![Figura 2 - Tracker do pacote ruby-blade.](/Debian_Pacotes/assets/ruby-blade.png)
+
+<center> Figura 2 - Tracker do pacote ruby-blade.</center>
+<br>
 
 ### ruby-sys-filesystem
 
