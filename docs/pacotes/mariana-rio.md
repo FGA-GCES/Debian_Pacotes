@@ -10,6 +10,8 @@ title: Mariana Oliveira Pires do Rio
 
 ### python-redmine
 
+![image](../assets/python-read.png)
+
 Atualização da versão upstream, criação de patch.
 
 - [Tracker](https://tracker.debian.org/pkg/python-redmine)
@@ -20,15 +22,20 @@ Atualização da versão upstream, criação de patch.
 
 ### asciiart
 
+![image](../assets/asciiart.png)
+
 Atualização da versão upstream, Debci failed tests, repositorio desatualizado, standards version desatualizada.
 
 - [Tracker](https://tracker.debian.org/pkg/asciiart)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/118)
 - [Merge Request](https://salsa.debian.org/ruby-team/asciiart/-/merge_requests/4)
 - Colaborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
-- Status: **review**
+- Status: **To do/review**
 
 ### capistrano
+
+
+![image](../assets/capistrano.png)
 
 Atualização da versão upstream, criação de patch.
 
@@ -36,9 +43,12 @@ Atualização da versão upstream, criação de patch.
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/110)
 - [Merge Request](https://salsa.debian.org/ruby-team/capistrano/-/merge_requests/1)
 - Colaborador(es): [André Corrêa](https://salsa.debian.org/dartmol203)
-- Status: **review**
+- Status: **To do/review**
 
 ### camping
+
+
+![image](../assets/camping.png)
 
 Atualização da versão upstream, repositorio desatualizado, standards version desatualizada, criação de patch, lintian reports com 3 warnings.
 
