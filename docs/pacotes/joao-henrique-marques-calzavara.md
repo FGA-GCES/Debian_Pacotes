@@ -12,7 +12,7 @@ title: João Henrique Marques Calzavara
 
 Nova versão do stardards-version, problemas de lintian.
 
-![image](/assets/dnlib.png)
+![image](/Debian_Pacotes/assets/dnlib.png)
 
 - [Tracker](https://tracker.debian.org/pkg/dnlib)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/63)
@@ -24,7 +24,7 @@ Nova versão do stardards-version, problemas de lintian.
 
 Nova versão do stardards-version e patches desatualizados.
 
-![image](/assets/ruby-omniauth-github.png)
+![image](/Debian_Pacotes/assets/ruby-omniauth-github.png)
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-omniauth-github)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/99)
@@ -35,7 +35,7 @@ Nova versão do stardards-version e patches desatualizados.
 
 Nova versão do stardards-version e patches desatualizados.
 
-![image](/assets/ruby-rspec-parameterized.png)
+![image](/Debian_Pacotes/assets/ruby-rspec-parameterized.png)
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-rspec-parameterized)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/112)
@@ -46,7 +46,7 @@ Nova versão do stardards-version e patches desatualizados.
 
 Nova versão do stardards-version e correção de problemas do lintian.
 
-![image](/assets/tdiary-style-gfm.png)
+![image](/Debian_Pacotes/assets/tdiary-style-gfm.png)
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-rspec-parameterized)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/100)
@@ -57,7 +57,7 @@ Nova versão do stardards-version e correção de problemas do lintian.
 
 Nova versão do stardards-version e correção de problemas do lintian.
 
-![image](/assets/ruby-ipaddress.png)
+![image](/Debian_Pacotes/assets/ruby-ipaddress.png)
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-ipaddress)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/128)

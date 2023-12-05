@@ -10,7 +10,7 @@ title: Lucas Gabriel Sousa Camargo Paiva
 
 ### flask-dance
 
-![Figura 1 - Tracker do pacote flask-dance.](/assets/flask-dance.png)
+![Figura 1 - Tracker do pacote flask-dance.](/Debian_Pacotes/assets/flask-dance.png)
 
 <center> Figura 1 - Tracker do pacote flask-dance.</center>
 <br>
@@ -28,7 +28,7 @@ Standards-Version.
 
 ### ruby-blade
 
-![Figura 2 - Tracker do pacote ruby-blade.](/assets/ruby-blade.png)
+![Figura 2 - Tracker do pacote ruby-blade.](/Debian_Pacotes/assets/ruby-blade.png)
 
 <center> Figura 2 - Tracker do pacote ruby-blade.</center>
 <br>
