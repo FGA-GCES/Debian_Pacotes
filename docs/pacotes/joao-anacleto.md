@@ -10,7 +10,7 @@ title: João Pedro Anacleto
 
 ### ruby-svg-graph
 
-![ruby-svg-graph](/docs/assets/ruby-svg-graph.png)
+![ruby-svg-graph](https://raw.githubusercontent.com/FGA-GCES/Debian_Pacotes/main/docs/assets/ruby-svg-graph.png)
 
 Empacotamento da nova versão do upstream 2.2.2,Correção dos erros e warnings do lintian,correção dos erros de Patches.
 
@@ -22,11 +22,11 @@ Empacotamento da nova versão do upstream 2.2.2,Correção dos erros e warnings 
 
 #### Resposta do MR
 
-![resposta mr](/docs/assets/resposta_mr_ruby-svg-graph.jpeg)
+![resposta mr](https://raw.githubusercontent.com/FGA-GCES/Debian_Pacotes/main/docs/assets/resposta_mr_ruby-svg-graph.jpeg)
 
 ### ruby-whitewash
 
-![Ruby whitewash](docs/assets/ruby-whitewash.png)
+![Ruby whitewash](https://raw.githubusercontent.com/FGA-GCES/Debian_Pacotes/main/docs/assets/ruby-whitewash.png)
 
 Atualizar o Standarts version do pacote da2.1-2 para a versão 4.6.2,resolver 1 warnings
 do lintian atualizar 2 patches para o upstream.
