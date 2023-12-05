@@ -55,4 +55,22 @@ Bump Standards-Version to 4.6.2, up to date VCS repository.
 - [Merge Request](https://salsa.debian.org/hle/pyrandom2/-/merge_requests/2)
 - Status: **Review**
 
+### pymongo
 
+Fix debian/watch: file no matching hrefs, New upstream version 4.6.1, Fix debian/python-pymongo.install, Fix debian/python-bson.install, Update standards version to 4.6.2
+
+
+- [Tracker](https://tracker.debian.org/pkg/pymongo)
+- [Issue](https://salsa.debian.org/debian/pymongo)
+- [Merge Request](https://salsa.debian.org/debian/pymongo/-/merge_requests/4)
+- Status: **Review**
+
+
+### Package Pyparted
+
+- [Tracker](https://tracker.debian.org/pkg/pyparted)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/104)
+- [Merge Request]()
+- Colaborador(es): [ABDUL HANNAN](https://salsa.debian.org/hannanhunny01)
+
+- Status: **Doing**
