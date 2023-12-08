@@ -139,3 +139,16 @@ Software ainda não empacotado.
 
 [flask]: https://flask.palletsprojects.com
 [Image-Finder]: https://salsa.debian.org/cloud-team/image-finder
+
+### fq
+
+A versão atualmente empacotada (0.3.0) _Fails To Build From Source (FTBFS)_
+por causa de uma atualização de uma dependência. A versão mais nova do
+upstream (0.9.0) corrige esse problema.
+
+Um bug _FTBFS_ é considerado _Release Critical_, impossibilitando que
+o pacote migre para _testing_.
+
+- [BUG RC FTBFS](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057403)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/133)
+- [Merge Request](https://salsa.debian.org/go-team/packages/fq/-/merge_requests/1)
