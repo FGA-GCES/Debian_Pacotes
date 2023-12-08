@@ -152,3 +152,4 @@ o pacote migre para _testing_.
 - [BUG RC FTBFS](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057403)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/133)
 - [Merge Request](https://salsa.debian.org/go-team/packages/fq/-/merge_requests/1)
+- Status: **review**
