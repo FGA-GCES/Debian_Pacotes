@@ -63,3 +63,14 @@ Aplicando dica de multiarquitetura e nova versão do standarts-version.
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/130)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-e2mmap/-/merge_requests/2)
 - Status: **review**
+
+### bio-vcf
+
+Nova release, aplicando dica de multi arquitetura e nova versão do standarts-version.
+
+![image](/Debian_Pacotes/assets/bio-vcf.png)
+
+- [Tracker](https://tracker.debian.org/pkg/bio-vcf)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/139)
+- [Merge Request](https://salsa.debian.org/med-team/bio-vcf/-/merge_requests/1)
+- Status: **review**
