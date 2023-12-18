@@ -74,3 +74,14 @@ Nova release, aplicando dica de multi arquitetura e nova versão do standarts-ve
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/139)
 - [Merge Request](https://salsa.debian.org/med-team/bio-vcf/-/merge_requests/1)
 - Status: **review**
+
+### ruby-spring-commands-rspec
+
+Corrigindo changelog para ficar de acordo com a versão no VCS e nova versão do standarts-version.
+
+![image](/Debian_Pacotes/assets/ruby-spring-commands-rspec.png)
+
+- [Tracker](https://tracker.debian.org/pkg/ruby-spring-commands-rspec)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/140)
+- [Merge Request](https://salsa.debian.org/ruby-team/ruby-spring-commands-rspec/-/merge_requests/1)
+- Status: **review**
