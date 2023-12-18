@@ -84,4 +84,17 @@ Nova versão do standards-version e correção de problemas de lntian
 - [Tracker](https://tracker.debian.org/pkg/vim-addon-manager)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/137)
 - [Merge Request](https://salsa.debian.org/vim-team/vim-addon-manager/-/merge_requests/6)
+- Status: **closed**
+
+Mantenedor revisou e disse que o pacote ia ser descontinuado do debian, logo não adiantava aceitar as mudanças.
+
+### feed2imap
+
+Nova versão do standards-version e correção de problemas de lntian
+
+![image](/Debian_Pacotes/assets/feed2imap.png)
+
+- [Tracker](https://tracker.debian.org/pkg/feed2imap)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/138)
+- [Merge Request](https://salsa.debian.org/ruby-team/feed2imap/-/merge_requests/1)
 - Status: **review**
