@@ -68,6 +68,8 @@ Nova versão do stardards-version e correção de problemas do lintian.
 
 Nova versão do standards-version e correção de problemas de lntian
 
+![image](/Debian_Pacotes/assets/ruby-openid.png)
+
 - [Tracker](https://tracker.debian.org/pkg/ruby-openid)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/136)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-openid/-/merge_requests/1)
