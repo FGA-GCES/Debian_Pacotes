@@ -74,3 +74,14 @@ Nova versão do standards-version e correção de problemas de lntian
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/136)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-openid/-/merge_requests/1)
 - Status: **review**
+
+### vim-addon-manager
+
+Nova versão do standards-version e correção de problemas de lntian
+
+![image](/Debian_Pacotes/assets/vim-addon-manager.png)
+
+- [Tracker](https://tracker.debian.org/pkg/vim-addon-manager)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/137)
+- [Merge Request](https://salsa.debian.org/vim-team/vim-addon-manager/-/merge_requests/6)
+- Status: **review**
