@@ -61,5 +61,14 @@ Nova versão do stardards-version e correção de problemas do lintian.
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-ipaddress)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/128)
-- [Merge Request](<https://salsa.debian.org/ruby-team/tdiary-style-gfm/-/merge_requests/1](https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1>)
+- [Merge Request](https://salsa.debian.org/ruby-team/ruby-ipaddress/-/merge_requests/1)
+- Status: **review**
+
+### ruby-openid
+
+Nova versão do standards-version e correção de problemas de lntian
+
+- [Tracker](https://tracker.debian.org/pkg/ruby-openid)
+- [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/136)
+- [Merge Request](https://salsa.debian.org/ruby-team/ruby-openid/-/merge_requests/1)
 - Status: **review**
