@@ -12,6 +12,8 @@ title: Marcos Vinícius de Deus
 
 Nova versão do stardards-version, problemas de lintian.
 
+![image](/Debian_Pacotes/assets/dnlib.png)
+
 - [Tracker](https://tracker.debian.org/pkg/dnlib)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/63)
 - [Merge Request](https://salsa.debian.org/pkg-security-team/dnlib/-/merge_requests/1)
@@ -22,6 +24,8 @@ Nova versão do stardards-version, problemas de lintian.
 
 Nova versão do stardards-version e nova release.
 
+![image](/Debian_Pacotes/assets/ruby-daemons.png)
+
 - [Tracker](https://tracker.debian.org/pkg/ruby-daemons)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/101)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-daemons/-/merge_requests/1)
@@ -30,6 +34,8 @@ Nova versão do stardards-version e nova release.
 ### ruby-scanf
 
 Nova release e nova versão do standarts-version.
+
+![image](/Debian_Pacotes/assets/ruby-scanf.png)
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-scanf)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/107)
@@ -40,6 +46,8 @@ Nova release e nova versão do standarts-version.
 
 Nova versão do standarts-version, correção de erro do lintian e atualizar changelog.
 
+![image](/Debian_Pacotes/assets/ruby-jekyll-last-modified-at.png)
+
 - [Tracker](https://tracker.debian.org/pkg/ruby-jekyll-last-modified-at)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/113)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-jekyll-last-modified-at/-/merge_requests/1)
@@ -48,6 +56,8 @@ Nova versão do standarts-version, correção de erro do lintian e atualizar cha
 ### ruby-e2mmap
 
 Aplicando dica de multiarquitetura e nova versão do standarts-version.
+
+![image](/Debian_Pacotes/assets/ruby-e2mmap.png)
 
 - [Tracker](https://tracker.debian.org/pkg/ruby-e2mmap)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/130)
