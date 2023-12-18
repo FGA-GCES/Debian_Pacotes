@@ -149,7 +149,9 @@ upstream (0.9.0) corrige esse problema.
 Um bug _FTBFS_ é considerado _Release Critical_, impossibilitando que
 o pacote migre para _testing_.
 
+A versão 0.9.0 foi atualizada por outro mantenedor do pacote.
+
 - [BUG RC FTBFS](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057403)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/133)
 - [Merge Request](https://salsa.debian.org/go-team/packages/fq/-/merge_requests/1)
-- Status: **review**
+- Status: **closed**
