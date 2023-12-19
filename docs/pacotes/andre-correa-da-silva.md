@@ -42,4 +42,13 @@ Atualização da versão upstream e standards version.
 - [Tracker](https://tracker.debian.org/pkg/cucumber)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/121)
 - Colaborador(es): [Mariana Rio](https://salsa.debian.org/mprio_zip)
-- Status: **doing**
+- Status: **Review**
+
+### libjs-ace -- standalone code editor for the web
+
+![](../assets/bug-report.png)
+
+![](../assets/change-itp.png)
+
+- [ISSUE](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/141)
+- status: **doing**
