@@ -16,7 +16,7 @@ Bump Standards-Version to 4.6.2, Fix lintian File name and Lintian warnings.
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/66)
 - [Merge Request](https://salsa.debian.org/python-team/packages/python-flask-seeder/-/merge_requests/8)
 - Colaborador(es): [ABDUL HANNAN](https://salsa.debian.org/hannanhunny01)
-- Status: **Review**
+- Status: **Done**
 
 ### ruby-unicode-plot
 
