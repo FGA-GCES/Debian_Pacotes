@@ -101,7 +101,6 @@ Nova versão do standards-version e correção de problemas de lntian
 
 ## Resumo das sprints
 
-<div align="center">
 
 |   Número   |   Pacote   |   Status   |   Sprint   |
 |:------------:|:------------:|:------------:|:------------:|
@@ -114,7 +113,6 @@ Nova versão do standards-version e correção de problemas de lntian
 |    7     |    [vim-addon-manager](#vim-addon-manager)    |    Closed    |    Extra    |
 |    8     |    [feed2imap](#feed2imap)    |    Review    |    Extra    |
 
-</div>
 
 ### Quantidade de pacotes em cada estado
 

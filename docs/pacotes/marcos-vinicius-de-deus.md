@@ -88,7 +88,6 @@ Corrigindo changelog para ficar de acordo com a versão no VCS e nova versão do
 
 ## Resumo das sprints
 
-<div align="center">
 
 |   Número   |   Pacote   |   Status   |   Sprint   |
 |:------------:|:------------:|:------------:|:------------:|
@@ -101,7 +100,6 @@ Corrigindo changelog para ficar de acordo com a versão no VCS e nova versão do
 |    7     |    [bio-vcf](#bio-vcf)    |    Done    |    Extra    |
 |    8     |    [ruby-spring-commands-rspec](#ruby-spring-commands-rspec)    |    Review    |    Extra    |
 
-</div>
 
 ### Quantidade de pacotes em cada estado
 
