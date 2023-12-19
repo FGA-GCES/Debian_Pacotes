@@ -98,3 +98,27 @@ Nova versão do standards-version e correção de problemas de lntian
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/138)
 - [Merge Request](https://salsa.debian.org/ruby-team/feed2imap/-/merge_requests/1)
 - Status: **review**
+
+## Resumo das sprints
+
+<div align="center">
+
+|   Número   |   Pacote   |   Status   |   Sprint   |
+|:------------:|:------------:|:------------:|:------------:|
+|    1     |    [dnlib](#dnlib)     |    Review     |    2     |
+|    2     |    [ruby-omniauth-github](#ruby-omniauth-github)     |    Review     |    3     |
+|    3     |    [ruby-rspec-parameterized](#ruby-rspec-parameterized)    |    Done    |    4    |
+|    4     |    [ruby-tdiary-style-gfm](#ruby-tdiary-style-gfm)     |    Review     |    4     |
+|    5     |    [ruby-ipaddress](#ruby-ipaddress)     |    Review     |    5     |
+|    6     |    [ruby-openid](#ruby-openid)    |   Review    |    6    |
+|    7     |    [vim-addon-manager](#vim-addon-manager)    |    Closed    |    Extra    |
+|    8     |    [feed2imap](#feed2imap)    |    Review    |    Extra    |
+
+</div>
+
+### Quantidade de pacotes em cada estado
+
+- Pacotes em review: 6
+- Pacotes fechados: 1
+- Pacotes prontos: 1
+- Total de pacotes: 8
