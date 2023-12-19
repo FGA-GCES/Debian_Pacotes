@@ -73,7 +73,7 @@ Nova release, aplicando dica de multi arquitetura e nova versão do standarts-ve
 - [Tracker](https://tracker.debian.org/pkg/bio-vcf)
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/139)
 - [Merge Request](https://salsa.debian.org/med-team/bio-vcf/-/merge_requests/1)
-- Status: **review**
+- Status: **done**
 
 ### ruby-spring-commands-rspec
 
@@ -85,3 +85,27 @@ Corrigindo changelog para ficar de acordo com a versão no VCS e nova versão do
 - [Issue](https://salsa.debian.org/debian-brasilia-team/docs/-/issues/140)
 - [Merge Request](https://salsa.debian.org/ruby-team/ruby-spring-commands-rspec/-/merge_requests/1)
 - Status: **review**
+
+## Resumo das sprints
+
+<div align="center">
+
+|   Número   |   Pacote   |   Status   |   Sprint   |
+|:------------:|:------------:|:------------:|:------------:|
+|    1     |    [dnlib](#dnlib)     |    Review     |    2     |
+|    2     |    ruby-unicorn-worker-killer     |    Closed     |    3     |
+|    3     |    [ruby-daemons](#ruby-daemons)    |    Done    |    4    |
+|    4     |    [ruby-scanf](#ruby-scanf)     |    Done     |    4     |
+|    5     |    [ruby-jekyll-last-modified-at](#ruby-jekyll-last-modified-at)     |    Done     |    5     |
+|    6     |    [ruby-e2mmap](#ruby-e2mmap)    |   Review    |    6    |
+|    7     |    [bio-vcf](#bio-vcf)    |    Done    |    Extra    |
+|    8     |    [ruby-spring-commands-rspec](#ruby-spring-commands-rspec)    |    Review    |    Extra    |
+
+</div>
+
+### Quantidade de pacotes em cada estado
+
+- Pacotes em review: 3
+- Pacotes fechados: 1
+- Pacotes prontos: 4
+- Total de pacotes: 8
